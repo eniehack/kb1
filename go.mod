@@ -8,3 +8,5 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.32
 	github.com/twmb/murmur3 v1.1.8
 )
+
+require github.com/BurntSushi/toml v1.5.0
